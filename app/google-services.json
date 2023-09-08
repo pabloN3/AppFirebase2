@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1005904341973",
+    "project_id": "llamada-798ea",
+    "storage_bucket": "llamada-798ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1005904341973:android:2df4de8cfc456f1ab1eb5c",
+        "android_client_info": {
+          "package_name": "com.example.appfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAi8cDk7fdgb8IGnKK-ZgCJ-quyIyGvE9c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
